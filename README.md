@@ -28,7 +28,7 @@ Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
 
 Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD) with generic crud and auth , admin management .
 
-**Live App Demo** : [https://www.idurarapp.com](https://www.idurarapp.com)
+
 
 
 ## Setup backend
