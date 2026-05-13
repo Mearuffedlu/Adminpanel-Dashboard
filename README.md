@@ -76,5 +76,3 @@ Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD
 #
 ```
 
-**🚀 Cloud Entreprise Version** : [https://www.idurarapp.com](https://www.idurarapp.com)
-<br/>
